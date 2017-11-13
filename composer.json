@@ -17,8 +17,8 @@
          "eveseat/console": "2.0.*",
          "eveseat/eveapi": "2.0.*",
          "eveseat/notifications": "2.0.*",
-         "eveseat/services": "2.0.*",
-         "eveseat/web": "2.0.*"
+         "soratidus999/services": "2.0.*",
+         "soratidus999/web": "2.0.*"
     },
     "require-dev": {
         "filp/whoops": "~2.0",
